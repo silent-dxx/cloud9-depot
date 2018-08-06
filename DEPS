@@ -44,8 +44,8 @@ deps = {
 
   "src/third_party/stp":
     "git+https://github.com/stp/stp.git@9ab2a59",
-  "src/third_party/gyp":
-    "http://gyp.googlecode.com/svn/trunk@1417",
+  #"src/third_party/gyp":
+  #  "http://gyp.googlecode.com/svn/trunk@1417",
   "src/third_party/boolector":
     "git+https://github.com/dslab-epfl/cloud9-boolector.git",
 
