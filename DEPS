@@ -30,9 +30,9 @@
 
 vars = {
   "libcxx_trunk":
-    "http://llvm.org/svn/llvm-project/libcxx/trunk",
+    "git+https://git.llvm.org/git/libcxx.git/",
   "libcxx_release31":
-    "http://llvm.org/svn/llvm-project/libcxx/tags/RELEASE_31/final",
+    "git+https://git.llvm.org/git/libcxx.git/",
 }
 
 
